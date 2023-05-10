@@ -1,0 +1,21 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+}
+
+.grid img {
+  width: 100%;
+margin-left: 100px;
+
+}
+.newgrid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 10px;
+}
+
+.newgrid img {
+  width: 100%;
+ margin-left: 70px; 
+}

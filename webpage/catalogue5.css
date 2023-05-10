@@ -1,0 +1,26 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 10px;
+}
+
+.grid img {
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.newgrid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-gap: 10px;
+}
+
+.newgrid img {
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
